@@ -1,1 +1,2 @@
-# cool_vimium_theme
+# GitHub Dark Theme
+
